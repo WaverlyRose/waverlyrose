@@ -15,7 +15,7 @@ I build AI systems that sit *inside* real clinical workflows — from ORs to tum
 ![JHU AI](https://img.shields.io/badge/Johns%20Hopkins-M.S.%20Artificial%20Intelligence%20'27-005EB8)
 
 
-- 🧠 AI Engineer – Neurosurgery (Spine Tumor Boards) – Productionizing a privacy-safe LLM/RAG service that ingests charts, imaging impressions, pathology, and guidelines into one-page, FHIR-like decision briefs with full citations, built on Go-based orchestration, FastAPI/Pydantic, Postgres/pgvector, and AWS (S3, ECR, EKS) with Kubernetes, Docker, and Grafana for SRE-grade observability.
+- 🧠 AI Engineer Researcher – Neurosurgery (Spine Tumor Boards) – Productionizing a privacy-safe LLM/RAG service that ingests charts, imaging impressions, pathology, and guidelines into one-page, FHIR-like decision briefs with full citations, built on Go-based orchestration, FastAPI/Pydantic, Postgres/pgvector, and AWS (S3, ECR, EKS) with Kubernetes, Docker, and Grafana for SRE-grade observability.
 - 🎓 M.S. in Artificial Intelligence, Johns Hopkins University (May 2027, in progress) – Completing a rigorous online AI curriculum (ML, NLP, robotics, and image processing) through Engineering for Professionals while working full time, with a focus on designing production-grade AI systems that can be deployed safely and reliably in real-world clinical workflows.
 
 
