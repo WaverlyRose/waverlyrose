@@ -14,15 +14,29 @@
 - Trustworthy AI in healthcare
 
 
-## 🧰 Technical Stack
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-Vector%20Search-0CA678) ![AWS](https://img.shields.io/badge/AWS-%20S3%20%7C%20ECR%20%7C%20EKS-FF9900?logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+---
 
-- **Languages**: Python (NumPy, Pandas, SciPy), a bit of R and MATLAB
-- **ML / DL**: PyTorch, TensorFlow/Keras, Scikit-learn, XGBoost, LightGBM
-- **Computer Vision**: OpenCV, classical CV pipelines, deep CV for surgical video
-- **Data & Infra**: Docker, GitHub Actions, HPC clusters, AWS
-- **Analytics & Viz**: Matplotlib, Seaborn, Plotly, custom dashboards for OR analytics
+## Featured Projects
+
+### [SCRUB](https://github.com/WaverlyRose?tab=repositories)
+
+A surgical data science initiative for understanding and improving care through multimodal operating-room data.
+
+### [Pipeline Problem](https://github.com/WaverlyRose?tab=repositories)
+
+Research and tooling for the data, modeling, and evaluation challenges that shape clinical AI in practice.
+
+### [Surgical Foundation Models](https://github.com/WaverlyRose?tab=repositories)
+
+Developing foundation-model approaches for robust representation learning across surgical data modalities.
+
+### [Clinical AI Systems](https://github.com/WaverlyRose?tab=repositories)
+
+Production-oriented clinical intelligence systems designed for traceability, privacy, and real-world use.
+
+### [Medical Computer Vision](https://github.com/WaverlyRose?tab=repositories)
+
+Computer vision methods for surgical video, imaging, and clinically meaningful visual understanding.
 
 
 ## 📚 Selected Publications & Work
