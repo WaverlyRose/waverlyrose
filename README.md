@@ -18,64 +18,43 @@
 
 ## Featured Projects
 
-### [SCRUB](https://github.com/WaverlyRose?tab=repositories)
+### [SCRUB](https://waverlyrose.github.io/projects/1_scrub/)
 
-A surgical data science initiative for understanding and improving care through multimodal operating-room data.
+A computer-vision system for studying feature collapse and partial signal recovery in surgical gloved-hand pose estimation.
 
-### [Pipeline Problem](https://github.com/WaverlyRose?tab=repositories)
+### [Spine Oncology RAG Service](https://waverlyrose.github.io/projects/2_spine_rag/)
 
-Research and tooling for the data, modeling, and evaluation challenges that shape clinical AI in practice.
+A production LLM/RAG system for privacy-aware, citation-grounded decision support in spine tumor boards.
 
-### [Surgical Foundation Models](https://github.com/WaverlyRose?tab=repositories)
+### [MindEye2-Demo](https://waverlyrose.github.io/projects/3_mindeye2/)
 
-Developing foundation-model approaches for robust representation learning across surgical data modalities.
+An Apple Silicon–optimized implementation of fMRI-to-image reconstruction.
 
-### [Clinical AI Systems](https://github.com/WaverlyRose?tab=repositories)
+### [Soft-kNN ICU Mortality](https://waverlyrose.github.io/projects/4_soft_knn/)
 
-Production-oriented clinical intelligence systems designed for traceability, privacy, and real-world use.
+A study of subgroup-fair calibration for ICU mortality prediction on MIMIC-IV.
 
-### [Medical Computer Vision](https://github.com/WaverlyRose?tab=repositories)
+### [Meningioma Multimodal Pipeline](https://waverlyrose.github.io/projects/5_meningioma/)
 
-Computer vision methods for surgical video, imaging, and clinically meaningful visual understanding.
-
-
-## 📚 Selected Publications & Work
-
-I focus heavily on **machine learning for neuro-oncology** and **reporting quality / bias in ML for medicine**.
-
-- Machine learning for differentiating **glioma vs brain metastasis** – systematic reviews and TRIPOD-based quality assessments  
-- Reviews of ML and deep learning for **glioma grading, segmentation, and subtype prediction**  
-- Ongoing work on **fair, interpretable clinical ML** in imaging-based workflows  
-
-👉 You can find the full list on **[Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en)**.
+Computational pathology and genomics workflows for understanding tumor microenvironments.
 
 
-## 🚀 Highlight Projects
+---
 
-- **Circlage – Surgical Skill Assessment Platform**  
-  Computer vision + UX for video-based cataract surgery skill assessment and OR utilization analytics.  
-  *Role*: R&D, model development, product design, and clinical–technical translation.
+## Selected Publications
 
-- **Meningioma Microenvironment ML Pipeline**  
-  ML + CV workflows for subcellular structure detection, segmentation, and genomic data visualization to support neurosurgical teams.
+Research on machine learning for neuro-oncology, imaging-based clinical prediction, and the quality, bias, and interpretability of AI in medicine.
 
+[View publications on Google Scholar →](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en)
 
-## 🤝 How I Like to Collaborate
-![Domain](https://img.shields.io/badge/Domain-Healthcare%20%7C%20Neurosurgery-6C5CE7) ![Focus](https://img.shields.io/badge/Focus-Surgical%20Data%20Science-0984E3) ![Equity](https://img.shields.io/badge/Healthcare-Equity%20%26%20Access-00A86B)
+---
 
+## Speaking
 
-- Translational projects at the **interface of ML and clinical practice**  
-- Teams that care about **reporting standards, bias assessment, and real-world deployment**, not just leaderboard metrics  
-- Strong preference for projects that move us toward **equitable and explainable AI in healthcare**
+World Economic Forum · Johns Hopkins · Conference talks
 
-If that sounds like your team or project, let’s talk.
+---
 
+## Contact
 
-## 📫 Reach Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/)
-- ✉️ wrb@waverlyrose.io
-- 🌎 New York Metropolitan Tri-State Area
-
-
-> “Build tools that clinicians trust and patients would choose if they understood how they work.”
+[Website](https://waverlyrose.io) · [Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/) · [Email](mailto:wrb@waverlyrose.io)
