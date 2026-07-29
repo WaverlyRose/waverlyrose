@@ -1,22 +1,17 @@
-# Hi, I'm Waverly Rose 👋🏽  
+<h1 align="center">Waverly Rose Brim</h1>
 
-![Double Helix Gore GIF by Xbox](https://github.com/user-attachments/assets/23574329-4eb9-4935-b267-53930885d041)
+<p align="center">AI Research Engineer · Surgical Data Science</p>
 
-![Role](https://img.shields.io/badge/AI%20Engineer-Neurosurgery-b31b1b)
-![Focus](https://img.shields.io/badge/Surgical%20AI-%F0%9F%8F%A0%20OR%20Workflows-0b7285)
+<p align="center"><i>Building trustworthy AI systems for surgery through computer vision, biological foundation models, and clinical machine learning.</i></p>
 
+---
 
-I build AI systems that sit *inside* real clinical workflows — from ORs to tumor boards — to improve surgical precision, tumor characterization, and operating room efficiency.
+## Current Focus
 
-
-## 🔭 What I'm Working On
-
-![Status](https://img.shields.io/badge/Full--time%20Engineer-Working%20While%20Studying-495057)
-![JHU AI](https://img.shields.io/badge/Johns%20Hopkins-M.S.%20Artificial%20Intelligence%20'27-005EB8)
-
-
-- 🧠 AI Engineer Researcher – Neurosurgery (Spine Tumor Boards) – Productionizing a privacy-safe LLM/RAG service that ingests charts, imaging impressions, pathology, and guidelines into one-page, FHIR-like decision briefs with full citations, built on Go-based orchestration, FastAPI/Pydantic, Postgres/pgvector, and AWS (S3, ECR, EKS) with Kubernetes, Docker, and Grafana for SRE-grade observability.
-- 🎓 M.S. in Artificial Intelligence, Johns Hopkins University (May 2027, in progress) – Completing a rigorous online AI curriculum (ML, NLP, robotics, and image processing) through Engineering for Professionals while working full time, with a focus on designing production-grade AI systems that can be deployed safely and reliably in real-world clinical workflows.
+- Surgical computer vision
+- Foundation models for biology and medicine
+- Clinical decision support systems
+- Trustworthy AI in healthcare
 
 
 ## 🧰 Technical Stack
