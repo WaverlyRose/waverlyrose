@@ -1,21 +1,20 @@
-
 # Waverly Rose Brim
 
 ### Computer Vision • Surgical AI • Foundation Models
 
 Building trustworthy AI systems for surgery through computer vision, foundation models, and clinical machine learning.
 
-<p align="center">
-  <img src="assets/header-surgery.png" alt="Surgical AI header" width="100%" />
-</p>
+
 
 [Website](https://waverlyrose.github.io) · [Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/) · [Email](mailto:wrb@waverlyrose.io)
 
 ---
 
-I believe AI should be evaluated where it is deployed - not only on benchmark datasets, but within the clinical workflows it is intended to improve.
+I believe AI should be evaluated where it is deployed; not only on benchmark datasets, but within the clinical workflows it is intended to improve.
 
 ---
+
+
 
 ## Research Portfolio
 
@@ -31,6 +30,9 @@ Memory-efficient fMRI-to-image reconstruction on Apple Silicon.
 **[Soft-kNN ICU Mortality](https://waverlyrose.github.io/projects/4_soft_knn/)**  
 Fairness-aware calibration and imputation for clinical prediction.
 
+**[Peritoneal Seeding Detection](https://waverlyrose.github.io/projects/9_peritoneal_seeding/)**  
+Intraoperative decision support for biopsy selection in diagnostic laparoscopy.
+
 **[Meningioma Multimodal Pipeline](https://waverlyrose.github.io/projects/5_meningioma/)**  
 Computational pathology and genomics for tumor microenvironment analysis.
 
@@ -38,20 +40,29 @@ Computational pathology and genomics for tumor microenvironment analysis.
 
 ---
 
+
+
 ## Selected Publications
 
+
+
 ### Artificial Intelligence in Cataract Surgery Training
+
 Springer - 2025
 
 ### Machine Learning Applications for Differentiation of Glioma from Brain Metastasis
+
 Cancers - 2022
 
 ### Machine Learning in Differentiating Gliomas from Primary CNS Lymphomas
+
 AJNR - 2022
 
 [View Google Scholar ->](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en)
 
 ---
+
+
 
 ## Selected Talks
 
