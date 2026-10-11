@@ -1,16 +1,12 @@
 # Waverly Rose Brim
+[Website](https://waverlyrose.github.io) · [Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/) · [Email](mailto:wrb@waverlyrose.io)
 
-### Computer Vision • Surgical AI • Foundation Models
 
 Building trustworthy AI systems for surgery through computer vision, foundation models, and clinical machine learning.
 
 <p align="center">
   <img src="assets/header-surgery.png" alt="Surgical AI header" width="100%" />
 </p>
-
-[Website](https://waverlyrose.github.io) · [Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/) · [Email](mailto:wrb@waverlyrose.io)
-
----
 
 
 ## Research Portfolio
@@ -35,8 +31,6 @@ Computational pathology and genomics for tumor microenvironment analysis.
 
 [View all projects ->](https://waverlyrose.github.io/projects/)
 
----
-
 
 
 ## Selected Publications
@@ -56,8 +50,6 @@ Cancers - 2022
 AJNR - 2022
 
 [View Google Scholar ->](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en)
-
----
 
 
 
