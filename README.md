@@ -12,11 +12,6 @@ Building trustworthy AI systems for surgery through computer vision, foundation 
 
 ---
 
-I believe AI should be evaluated where it is deployed; not only on benchmark datasets, but within the clinical workflows it is intended to improve.
-
----
-
-
 
 ## Research Portfolio
 
