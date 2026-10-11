@@ -1,6 +1,5 @@
 # Waverly Rose Brim
-[Website](https://waverlyrose.github.io) · [Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/) · [Email](mailto:wrb@waverlyrose.io)
-
+[Website](https://waverlyrose.github.io) · [Google Scholar](https://scholar.google.com/citations?user=VwZLAXoAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/waverlyrosebrim/)
 
 Building trustworthy AI systems for surgery through computer vision, foundation models, and clinical machine learning.
 
